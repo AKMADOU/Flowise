@@ -191,37 +191,3 @@ See [contributing guide](CONTRIBUTING.md). Reach out to us at [Discord](https://
 ## 📄 License
 
 Source code in this repository is made available under the [Apache License Version 2.0](LICENSE.md).
-
-
-
-
-
-# Intelligence Artificielle (IA)
-
-![Intelligence Artificielle](./path_to_your_image.png)
-
-## IA Générative
-
-L'IA générative est une sous-branche de l'intelligence artificielle qui se concentre sur la création de nouveaux contenus. Elle utilise des algorithmes d'apprentissage profond pour générer du texte, des vidéos, des images, et de la musique.
-
-### Branches de l'IA Générative
-
-- **Texte**
-  - Génération de texte : ChatGPT, GPT-3
-  - Résumé de documents
-  - Traduction automatique
-- **Vidéo**
-  - Génération de vidéos à partir de descriptions textuelles
-  - Édition automatisée de vidéos
-  - Animation basée sur des algorithmes
-- **Images**
-  - Création d'images : DALL-E, GANs (Generative Adversarial Networks)
-  - Modification et amélioration d'images
-  - Transformation de styles artistiques
-- **Musique**
-  - Composition musicale automatisée
-  - Génération de mélodies et harmonies
-  - Adaptation de styles musicaux
-
-L'IA générative ouvre de nouvelles possibilités créatives et pratiques dans divers domaines, transformant la manière dont nous interagissons avec la technologie et le contenu numérique.
-
